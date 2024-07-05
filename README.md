@@ -8,10 +8,6 @@ MySocials is an open-source link-in-bio tool designed to simplify the management
 
 ![MySocials Preview](/public/homepage.png)
 
-- User Page
-
-![MySocials Preview](/public/demo.png)
-
 ## Features
 
 - **Customizable Profiles:** Create personalized profiles with unique backgrounds, colors, and profile pictures.
@@ -34,7 +30,7 @@ To run this project locally, follow these steps:
 3. Set up MongoDB and configure the connection string in the application.
 4. Create a `.env.local` file
 5. Add mongodb and clerk's environment variables
-7. Start the development server: `npm run dev`
+6. Start the development server: `npm run dev`
 
 ## Usage
 
@@ -58,9 +54,3 @@ Please ensure any contributions align with the project's guidelines and code of 
 ## License
 
 MySocials is licensed under the [GPL-3.0 license](https://github.com/r2hu1/mysocials/#GPL-3.0-1-ov-file).
-
-## Support
-
-For any questions, issues, or support, feel free to contact [Rahul Rajput](https://rahul.eu.org).
-
-Thank you for using MySocials! We hope it simplifies your social media presence.
